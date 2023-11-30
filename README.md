@@ -2,7 +2,7 @@
 
 My name is Jeremy Cheng and I'm a Full Stack Developer based in Sydney, Australia.
 
-- 👯 I’m looking for my first role in the field, and would be grateful for any opportunities.
+- 👯 I am currently a Software Engineering Intern at [Skipped.ai](https://www.skipped.ai/), allowing retailers to sell without limits, together.
   
 - 🌱 I’m continuously skilling up and have completed or am completing the following courses:
     - [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) (Completed July 23),
