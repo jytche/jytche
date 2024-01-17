@@ -8,6 +8,7 @@ My name is Jeremy Cheng and I'm a Full Stack Developer based in Sydney, Australi
     - [100 Days of Python](https://www.udemy.com/course/100-days-of-code/) (In progress),
 
 - 🌱 Courses I have completed include:
+    - [JustJavascript by Dan Abramov](https://justjavascript.com/) (Completed Jan 23)
     - [Zod by Matt Pocock](https://www.totaltypescript.com/tutorials/zod) (Completed Dec 23)
     - [Beginner's Typescript by Matt Pocock](https://www.totaltypescript.com/tutorials/beginners-typescript) (Completed Dec 23)
     - [React Testing Library with Jest/Vitest](https://www.udemy.com/course/react-testing-library/) (Completed Nov 23)
